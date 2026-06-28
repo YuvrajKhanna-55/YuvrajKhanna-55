@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=99999&color=58A6FF&center=true&vCenter=true&width=680&lines=Yuvraj+Khanna)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YuvrajKhanna-55&style=flat-square&color=58A6FF&label=Profile+Visits" />
-
 </div>
-
----
 
 ## About Me
 
@@ -96,7 +92,7 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-khanna-b27352360)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvrajKhanna-55)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Yuvraj_Khanna/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanna.yuvraj123@gmail.com)
 
 </div>
