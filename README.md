@@ -58,20 +58,6 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuvrajKhanna-55&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajKhanna-55&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YuvrajKhanna-55&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvrajKhanna-55&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
