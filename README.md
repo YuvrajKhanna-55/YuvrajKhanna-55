@@ -52,16 +52,6 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Activity Graph](https://your-project.vercel.app/graph?username=YuvrajKhanna-55&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
----
 
 ## 📚 Currently Following
 
