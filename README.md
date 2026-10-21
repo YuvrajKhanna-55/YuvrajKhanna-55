@@ -56,7 +56,7 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YuvrajKhanna-55&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YuvrajKhanna-55)](https://git.io/streak-stats)
 
 </div>
 
