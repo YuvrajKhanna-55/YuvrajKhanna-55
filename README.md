@@ -52,7 +52,15 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YuvrajKhanna-55&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
 ## 📚 Currently Following
 
 - 📄 Re-implementing *Attention Is All You Need* — Vaswani et al.
