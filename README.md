@@ -62,10 +62,10 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 ---
 ## 📚 Currently Following
 
-- 📄 Re-implementing *Attention Is All You Need* — Vaswani et al.
+- 📄 Re-implementing Attention Is All You Need — Vaswani et al.
 - 🎥 Andrej Karpathy — LLMs
-- 📖 *Designing Machine Learning Systems* — Chip Huyen
-- 📖 *Deep Learning* — Goodfellow, Bengio, Courville
+- 📖 Designing Machine Learning Systems — Chip Huyen
+- 📖 Deep Learning — Goodfellow, Bengio, Courville
 
 ---
 
