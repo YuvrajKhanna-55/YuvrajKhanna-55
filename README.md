@@ -18,7 +18,7 @@ I build things to understand them — not to ship fast, not to pad a portfolio. 
 | **Transformers** | Re-implementing architecture papers to understand decisions, not just APIs |
 | **Deep Learning** | PyTorch from tensors up — autograd, custom loops, optimization |
 | **Computer Vision** | Transfer learning, class imbalance, DenseNet & ViT architectures |
-| **Backend for AI** | FastAPI services, Streamlit interfaces, making ML models usable |
+| **Backend for AI** | FastAPI services, Streamlit interfaces, Django|
 
 ---
 
